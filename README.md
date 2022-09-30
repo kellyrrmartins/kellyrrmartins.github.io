@@ -1,6 +1,6 @@
 # Explorer Rocketseat
 
-![preview](./.github.preview.png)
+![preview](./.preview.png)
 
 > Modulo 06 Stage 06
 
