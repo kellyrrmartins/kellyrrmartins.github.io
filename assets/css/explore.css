@@ -1,0 +1,8 @@
+body {
+  background-image: url('/assets/image/img3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main {
+  margin: 6.4rem 10.2rem;
+}

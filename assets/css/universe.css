@@ -1,0 +1,18 @@
+body {
+  background-image: url('/assets/image/img2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-size: 4.8rem;
+  line-height: 125%;
+  margin-bottom: 1.6rem;
+}
+main {
+  margin: 6.4rem 10.2rem;
+}
+p {
+  width: 64.8rem;
+  font-size: 1.8rem;
+  line-height: 160%;
+}

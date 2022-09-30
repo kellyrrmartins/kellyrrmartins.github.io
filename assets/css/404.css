@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+main {
+  min-height: 80vh;
+  display: grid;
+  place-content: center;
+}
+p {
+  color: blue;
+  font-weight: bold;
+  font-size: 2rem;
+}
+h2 {
+  font-size: 7rem;
+  text-align: center;
+}
